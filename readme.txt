@@ -4,3 +4,5 @@ I like git。
 git track
 
 真正的分布式
+
+create a new branch is quick.
