@@ -7,4 +7,6 @@ git track
 
 create a new branch is quick.
 
-create a new breanch is very quick
+
+create a new breanch is very quick创建一个分支是容易的
+
