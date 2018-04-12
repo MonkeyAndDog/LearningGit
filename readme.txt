@@ -15,4 +15,6 @@ create a new breanch is very quick创建一个分支是容易的
 
 分支上的新一天
 
-主分支上面的内容修改
+
+主分支上面的内容修改分支上的修改
+
