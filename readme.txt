@@ -22,3 +22,4 @@ create a new breanch is very quick创建一个分支是容易的
 
 dev分支上修改内容
 
+停下了正在开发的新功能，修复了存在的问题。
